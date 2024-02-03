@@ -40,14 +40,14 @@ button:hover {
 
 .yes-btn{
     position: absolute;
-    top: 36%;
+    top: 40%;
     left: 45%;
     transform: translate(-50%, -50%);
 }
 
 .no-btn{
     position: absolute;
-    top: 36%;
+    top: 40%;
     left: 55%;
     transform: translate(-50%, -50%);
 }
