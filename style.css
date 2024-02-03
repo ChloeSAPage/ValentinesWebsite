@@ -14,7 +14,11 @@ h1{
     text-align: center;
 }
 
-.yesorno{
+a{
+    text-decoration: none;
+}
+
+.buttons{
     text-align: center;
 }
 
