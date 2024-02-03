@@ -1,28 +1,28 @@
-body{
+body {
     font-family: 'Indie Flower', cursive;
     color: rgb(255, 150, 152);
 }
 
-video{
+video {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-.buttons{
+.buttons {
     text-align: center;
 }
 
-button{
+button {
     font-family: 'Indie Flower', cursive;
     font-weight: 900;
     background-color: pink;
@@ -33,7 +33,21 @@ button{
     font-size: 20px;
 }
 
-button:hover{
+button:hover {
     border: 3px solid #Ffc0cb;
     background-color: white;
+}
+
+.yes-btn{
+    position: absolute;
+    top: 36%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+
+.no-btn{
+    position: absolute;
+    top: 36%;
+    left: 55%;
+    transform: translate(-50%, -50%);
 }
